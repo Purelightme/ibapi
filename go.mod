@@ -1,4 +1,4 @@
-module github.com/hadrianl/ibapi
+module github.com/purelightme/ibapi
 
 go 1.21
 
